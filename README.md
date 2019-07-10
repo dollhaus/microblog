@@ -16,3 +16,12 @@ Use it if you like, entirely at your own risk. If you make any cool changes, ple
 * A central container with the ID "dynamicContainer" (yes, I'll fix this at some point for proper initialisation...)
 * A wrapping container around *dynamicContainer* called "scrollContainer" (some strange behaviour from flexboxes here)
 * jqueryOverlayScrollbars.js from https://github.com/KingSora/OverlayScrollbars 
+
+
+# usage
+
+Whack it in. Initialise at the **bottom** of your HTML (I hate *document.ready*). Make sure jquery, overlayscrollbars, and the css are initialised at the **top** of your HTML.
+
+Modify the CSS to use your favourite fonts. Classes that need font management are:
+* *.membertitle*
+* *.memberdetails*
