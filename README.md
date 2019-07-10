@@ -8,3 +8,10 @@ http://incoherent.xyz/
 
 
 Use it if you like, entirely at your own risk. If you make any cool changes, please consider bringing them back here.
+
+
+# requirements
+
+* Jquery 3 or above
+* A central container with the ID "dynamicContainer" (yes, I'll fix this at some point for proepr initialisation...)
+* jqueryOverlayScrollbars.js from https://github.com/KingSora/OverlayScrollbars 
