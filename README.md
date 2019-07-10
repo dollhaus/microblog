@@ -1,4 +1,4 @@
-*Forewarning: I am not a javascript developer. You might hate this code.
+*Forewarning: I am not a javascript developer. You might hate this code.*
 
 # microblog
 
