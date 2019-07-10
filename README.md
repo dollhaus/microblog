@@ -1,3 +1,5 @@
+*Forewarning: I am not a javascript developer. You might hate this code.
+
 # microblog
 
 This small Jquery based library is designed for small blogs that need minimal flourish. Everything is contained within a single page, and the blog articles are loaded in when required. This allows articles to use custom CSS if necessary, but global CSS will also work.
