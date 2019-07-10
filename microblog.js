@@ -3,7 +3,7 @@ var articles = [];
 
 
 // Use some nice scrollbars for in-page independent scrolling
-$("#testContainer").overlayScrollbars({
+$("#scrollContainer").overlayScrollbars({
     className: "os-theme-dark",
     resize: "none",
     autoHide: "move"
