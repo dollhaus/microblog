@@ -13,5 +13,6 @@ Use it if you like, entirely at your own risk. If you make any cool changes, ple
 # requirements
 
 * Jquery 3 or above
-* A central container with the ID "dynamicContainer" (yes, I'll fix this at some point for proepr initialisation...)
+* A central container with the ID "dynamicContainer" (yes, I'll fix this at some point for proper initialisation...)
+* A wrapping container around *dynamicContainer* called "scrollContainer" (some strange behaviour from flexboxes here)
 * jqueryOverlayScrollbars.js from https://github.com/KingSora/OverlayScrollbars 
