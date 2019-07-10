@@ -1,2 +1,10 @@
 # microblog
-WIP lightweight micro-blogging platform
+
+This small Jquery based library is designed for small blogs that need minimal flourish. Everything is contained within a single page, and the blog articles are loaded in when required. This allows articles to use custom CSS if necessary, but global CSS will also work.
+
+This is nowhere near production-ready. It's janky and doesn't entirely work, and I wrote it in about ten minutes. However, it does function well enough for personal use, and you can see it in action here:
+
+http://incoherent.xyz/
+
+
+Use it if you like, entirely at your own risk. If you make any cool changes, please consider bringing them back here.
